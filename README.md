@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/badge/Website-PAXINE-blue?logo=google-chrome)](https://paxine.fun/)
 [![Twitter](https://img.shields.io/badge/Twitter-PAXINE-blue?logo=twitter)](https://x.com/PAXINELAB)
 
+CA: ESSKkJqFfgK1oxms2ufvR62c7nGM7bCWgtcBG4v9pump
+
 ## PAXINE // The Permissionless Prediction Mint Engine for Polymarket
 
 In the world of Polymarket, information flows faster than consensus.
